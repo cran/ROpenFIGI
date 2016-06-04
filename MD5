@@ -1,0 +1,12 @@
+75fe221154540588a70129203573a2e8 *DESCRIPTION
+412a199842018f57be6bcd7a599e22ff *NAMESPACE
+67b531e43b2eb138bb21ac16c391bc61 *R/OpenFIGI_Func.R
+c72549995d2866f52515a85ac428758d *R/ROpenFIGI.R
+f4fafe0885573dcc5bb85e4b3b35af0e *man/OpenFIGI.Rd
+3e44f6bc97b4f03041c3ac2cbd84a49e *man/OpenFIGI_MappingCreator.Rd
+edd8621c3960469a15c5c0c654a1da19 *man/OpenFIGI_assignadditionalcols.Rd
+18f7bd79cd208ae5caff37a922349d61 *man/ROpenFIGI.Rd
+53fa3e68b2814f5b73d4e41d9fbc3d9b *man/sampleOpenFIGIdf.Rd
+3a435a680302a264cf3f7fbfba831686 *man/showFIGIIDType.Rd
+91b79b8fd6eb2f6c27c89a522b9557fd *tests/someFIGIs.R
+81922fe8ebb2105d084f35a6377eaaf8 *tests/testthat/testOpenFIGI.R
